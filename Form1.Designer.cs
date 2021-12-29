@@ -29,13 +29,34 @@ namespace KaSSierYaremko
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.logingTableAdapter1 = new KaSSierYaremko.BiletsDataSetTableAdapters.LogingTableAdapter();
+            this.usersTableAdapter1 = new KaSSierYaremko.BiletsDataSetTableAdapters.UsersTableAdapter();
+            this.SuspendLayout();
+            // 
+            // logingTableAdapter1
+            // 
+            this.logingTableAdapter1.ClearBeforeFill = true;
+            // 
+            // usersTableAdapter1
+            // 
+            this.usersTableAdapter1.ClearBeforeFill = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private BiletsDataSetTableAdapters.LogingTableAdapter logingTableAdapter1;
+        private BiletsDataSetTableAdapters.UsersTableAdapter usersTableAdapter1;
     }
 }
 

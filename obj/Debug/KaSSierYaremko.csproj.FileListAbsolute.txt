@@ -1,0 +1,10 @@
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.csproj.AssemblyReference.cache
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.Properties.Resources.resources
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.csproj.GenerateResource.cache
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.csproj.CoreCompileInputs.cache
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.Form1.resources
+I:\283\KaSSierYaremko\bin\Debug\KaSSierYaremko.exe.config
+I:\283\KaSSierYaremko\bin\Debug\KaSSierYaremko.exe
+I:\283\KaSSierYaremko\bin\Debug\KaSSierYaremko.pdb
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.exe
+I:\283\KaSSierYaremko\obj\Debug\KaSSierYaremko.pdb
